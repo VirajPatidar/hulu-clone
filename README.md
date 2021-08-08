@@ -4,7 +4,7 @@ _A responsive web app that lets you browse through and know about the available 
 
 <br/>
 
-**Link to the Web App:** []()
+**Link to the Web App:** [https://hulu-cloned.vercel.app/](https://hulu-cloned.vercel.app/)
 
 <br/>
 
