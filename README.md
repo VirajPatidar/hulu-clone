@@ -1,3 +1,30 @@
+# Hulu Clone: A clone of the popular streaming platform HULU
+
+_A responsive web app that lets you browse through and know about the available movies based on their category and genre._
+
+<br/>
+
+**Link to the Web App:** []()
+
+<br/>
+
+**Tech Stack**
+* Next.js
+* TMDB API
+* React
+* Tailwind CSS
+* Heroicons
+
+<br/>
+
+**Features**
+* Smooth Transitions
+* Server-side Rendering (SSR)
+* Lazy loading 
+* Responsive Design
+
+<br/>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
